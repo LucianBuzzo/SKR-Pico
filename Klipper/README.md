@@ -52,7 +52,7 @@ is complete, unplug the `boot jumper` and click the `Reset` button to enter norm
 
    ![](./Images/rp2040_id.png)
 
-   (note: this test is not appicable if the firmware was compiled for UART, rather than USB)
+   (note: this test is not applicable if the firmware was compiled for UART, rather than USB)
 
 ## Configure the printer parameters
 ### Basic configuration
